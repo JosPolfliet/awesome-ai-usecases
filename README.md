@@ -3,7 +3,7 @@
 A curated list of amazingly awesome data science ideas and use cases.
 You can use this to get new ideas and share existing ones.
 
-What makes them so _awesome_? All these ideas should be proven to actually generate value, not just 'cool facts' or 'promising techniques'. They should be applicable now, with data and techniques that are available today. For example: an AI that plays video games is cool, but it doesn't translate into a meaningful and useful application right now, so it does not belong here. 
+What makes them so _awesome_? All these ideas should be proven to actually generate value, not just 'cool facts' or 'promising techniques'. They should be applicable now, with data and techniques that are available today. For example: an (AI that plays video games)[http://www.wired.co.uk/article/google-deepmind-atari], or analyzing (heavy metal song lyrics)[http://www.degeneratestate.org/posts/2016/Apr/20/heavy-metal-and-natural-language-processing-part-1/] is cool, but it doesn't translate into a meaningful and useful application right now, so it does not belong here. 
 
 ## Use cases by industry
 ### Banking
@@ -20,9 +20,9 @@ What makes them so _awesome_? All these ideas should be proven to actually gener
 - Reducing outcome variation
 
 ### Insurance
-- Fraud detection
+- [Fraud detection](http://www.jstor.org/stable/3182781)
 - Solvency II and ORSA compliance
-- Risk analytics
+- [Risk analytics](https://en.wikipedia.org/wiki/Analytics#Risk_analytics)
 - Catastrophe modelling
 - Pricing using telematics
 
@@ -31,8 +31,9 @@ What makes them so _awesome_? All these ideas should be proven to actually gener
 - Design of experiments
 
 ### Manufacturing
-- Predictive Asset Maintenance
-- Quality control
+- [Predictive Asset Maintenance](http://www.genesissolutions.com/asset-management-to-be-a-key-in-internet-of-things-manufacturing-deployments/)
+- [Quality control](http://necsi.edu/affiliates/braha/IEEE-Cleaning_02.pdf)
+
 
 
 ### Retail
