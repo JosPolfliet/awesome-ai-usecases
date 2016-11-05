@@ -7,9 +7,10 @@ What makes them so _awesome_? All these ideas should be proven to actually gener
 
 ## Use cases by industry
 ### Banking
-- Risk management
-- Credit scoring
+
 - Basel II compliance
+- Credit scoring
+- Risk management
 - Stress testing
 
 
@@ -20,15 +21,16 @@ What makes them so _awesome_? All these ideas should be proven to actually gener
 - Reducing outcome variation
 
 ### Insurance
+- Catastrophe modelling
 - [Fraud detection](http://www.jstor.org/stable/3182781)
+- Pricing using telematics
 - Solvency II and ORSA compliance
 - [Risk analytics](https://en.wikipedia.org/wiki/Analytics#Risk_analytics)
-- Catastrophe modelling
-- Pricing using telematics
+
 
 ### Life sciences
-- [R&D portfolio optimization](http://www.athlycs.be/portfolio-insight)
 - Design of experiments
+- [R&D portfolio optimization](http://www.athlycs.be/portfolio-insight)
 
 ### Manufacturing
 - [Predictive Asset Maintenance](http://www.genesissolutions.com/asset-management-to-be-a-key-in-internet-of-things-manufacturing-deployments/)
@@ -46,14 +48,14 @@ What makes them so _awesome_? All these ideas should be proven to actually gener
 
 ### Telecommunications
 - Asset performance analytics
-- Predictive maintenance
 - Cell phone tower location optimization
+- Predictive maintenance
 - Routing optimization
 
 ### Travel
 #### Hotels
-- Room occupancy planning
 - Dynamic pricing
+- Room occupancy planning
 
 ## Use cases by department
 ### Call centre
@@ -71,14 +73,14 @@ What makes them so _awesome_? All these ideas should be proven to actually gener
 
 ### Finance
 - Cost analytics
-- Waste and abuse detection
 - Fraud detection
+- Waste and abuse detection
 
 ### IT
-- Text analytics for incident management tickets
 - Asset quality analytics
-- [Server performance monitoring and alerting](http://www.coscale.com/)
 - [Cybercrime detection](http://www.sas.com/en_be/software/fraud-security-intelligence/cybersecurity-solutions.html)
+- [Server performance monitoring and alerting](http://www.coscale.com/)
+- Text analytics for incident management tickets
 
 ### Marketing
 
@@ -101,12 +103,12 @@ What makes them so _awesome_? All these ideas should be proven to actually gener
 - Price elasticity
 
 ### Supply chain
-- Warehouse location optimization
-- Optimal routes
-- Gas purchase optimization
 - Constrained route optimization
-- Inventory forecasting
 - Demand forecasting
+- Gas purchase optimization
+- Inventory forecasting
+- Optimal routes
+- Warehouse location optimization
 
 ## License
 
