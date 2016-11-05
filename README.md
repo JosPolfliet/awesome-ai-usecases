@@ -3,6 +3,8 @@
 A curated list of amazingly awesome data science ideas and use cases.
 You can use this to get new ideas and share existing ones.
 
+What makes them so _awesome_? All these ideas should be proven to actually generate value, not just 'cool facts' or 'promising techniques'. They should be applicable now, with data and techniques that are available today. For example: an AI that plays video games is cool, but it doesn't translate into a meaningful and useful application right now, so it does not belong here. 
+
 ## Use cases by industry
 ### Banking
 - Risk management
