@@ -91,7 +91,7 @@ What makes them so _awesome_? All these ideas should be proven to actually gener
 - Personalized advertising
 - [Product recommendation engines](http://www.kdnuggets.com/2015/10/big-data-recommendation-systems-change-lives.html) using recommendation engines
 - [Marketing Optimization](http://www.marketingoptimizer.com/marketing-optimization/)
-- [Social Media Analytics](https://cran.r-project.org/web/packages/SocialMediaLab/index)
+- [Social Media Analytics](https://cran.r-project.org/web/packages/SocialMediaLab/)
 - Targetted advertising
 - Text Analytics on customer complaints
 
