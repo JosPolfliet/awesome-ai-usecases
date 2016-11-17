@@ -6,7 +6,7 @@ You can use this to get new ideas and share existing ones.
 What makes them so _awesome_? All these ideas should be proven to actually generate value, not just 'cool facts' or 'promising techniques'. They should be applicable now, with data and techniques that are available today. For example: an [AI that plays video games](http://www.wired.co.uk/article/google-deepmind-atari), or analyzing [heavy metal song lyrics](http://www.degeneratestate.org/posts/2016/Apr/20/heavy-metal-and-natural-language-processing-part-1/) is cool, but it doesn't translate into a meaningful and useful application, so it does not belong here. 
 
 ## Contents
-[Use cases by industry](#usecasesbyindustry)
+[Use cases by industry](#use-cases-by-industry)
 - [Banking](#banking)
 - [Healthcare](#healthcare)
 - [Insurance](#insurance)
@@ -16,7 +16,7 @@ What makes them so _awesome_? All these ideas should be proven to actually gener
 - [Telecommunications](#telecommunications)
 - [Travel](#travel)
   
-[Use cases by department](#usecasesbydepartment)
+[Use cases by department](#use-cases-by-department)
 
 - [Call centre](#call-centre)
 - [Human Resources](#human-resources)
