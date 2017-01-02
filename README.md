@@ -44,8 +44,12 @@ What makes them so _awesome_? All these ideas should be proven to actually gener
 
 ### Insurance
 - Catastrophe modelling
+- [Claims recovery prioritization](https://cdn2.hubspot.net/hubfs/2176909/Elder-Research-Case-Study-Prioritizing-Long-Term-Care-Claims.pdf)
+- [Claims processing automation](http://www.lexmark.com/en_us/solutions/financial-process-automation/terminology/claims-processing/insurance-claims-processing.html)
+- [Damage estimation automation](http://www.repairerdrivennews.com/2016/10/11/tractable-ceo-says-ai-will-assess-vehicle-damage-for-mitchell-company-specializes-in-ai-photo-analysis/)
 - [Fraud detection](http://www.jstor.org/stable/3182781)
-- Pricing using telematics
+- [Litigation prediction](http://www.propertycasualty360.com/2014/08/22/using-predictive-analytics-in-litigation-managemen?slreturn=1483353120)
+- [Pricing using telematics](https://lirias.kuleuven.be/handle/123456789/552745)
 - Solvency II and ORSA compliance
 - [Risk analytics](https://en.wikipedia.org/wiki/Analytics#Risk_analytics)
 
