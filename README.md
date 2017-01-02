@@ -12,6 +12,7 @@ What makes them so _awesome_? All these ideas should be proven to actually gener
 - [Insurance](#insurance)
 - [Life sciences](#life-sciences)
 - [Manufacturing](#manufacturing)
+- [Public Safety](#public-safety)
 - [Retail](#retail)
 - [Telecommunications](#telecommunications)
 - [Travel](#travel)
@@ -62,7 +63,17 @@ What makes them so _awesome_? All these ideas should be proven to actually gener
 - [Predictive Asset Maintenance](http://www.genesissolutions.com/asset-management-to-be-a-key-in-internet-of-things-manufacturing-deployments/)
 - [Quality control](http://necsi.edu/affiliates/braha/IEEE-Cleaning_02.pdf)
 
-
+### Public Safety
+- Crime Wave Detection
+- Patrolling Suggestions (Preventative Policing)
+- Crime Case Resolution Prediction
+- Crime Clustering
+- Complex/Organised Crime network detection
+- Terrorist Cell Identification
+- Alerting & Officer Safety
+- Criminal Evolution
+- Domestic Violence
+- Radicalisation prediction
 
 ### Retail
 - Distribution centre optimization
