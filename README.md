@@ -76,7 +76,7 @@ What makes them so _awesome_? All these ideas should be proven to actually gener
 - Criminal Evolution
 - Domestic Violence
 - Radicalisation prediction
-- [Mass scale surveillance](https://en.wikipedia.org/wiki/PRISM_(surveillance_program)
+- [Mass scale surveillance](https://en.wikipedia.org/wiki/PRISM_(surveillance_program))
 
 #### Finance and Tax
 - [Budget planning and simulation](https://www.edx.org/course/macroeconometric-forecasting-imfx-mfx-0)
