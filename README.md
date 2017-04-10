@@ -136,8 +136,9 @@ What makes them so _awesome_? All these ideas should be proven to actually gener
 
 - [Cross-sell opportunities](https://www.analyticsvidhya.com/blog/2015/08/learn-cross-selling-upselling/) using propensity models
 - [Lead scoring](http://marketingland.com/maximizing-lead-scoring-analytics-use-big-data-b2b-101956)
-- [Revenue forecasting](http://analytics.ncsu.edu/sesug/2007/PO10.pdf)
-- Price elasticity
+- [Price elasticity](https://support.sas.com/rnd/app/ets/examples/simpelast/index.htm)
+- [Revenue forecasting](http://analytics.ncsu.edu/sesug/2007/PO10.pdf) or [Kaggle](https://www.kaggle.com/c/rossmann-store-sales)
+
 
 ### Supply chain
 - Constrained route optimization
