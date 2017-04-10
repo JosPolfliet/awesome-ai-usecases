@@ -63,7 +63,9 @@ What makes them so _awesome_? All these ideas should be proven to actually gener
 - [Predictive Asset Maintenance](http://www.genesissolutions.com/asset-management-to-be-a-key-in-internet-of-things-manufacturing-deployments/)
 - [Quality control](http://necsi.edu/affiliates/braha/IEEE-Cleaning_02.pdf)
 
-### Public Safety
+### Public Sector
+
+#### Public Safety
 - Crime Wave Detection
 - Patrolling Suggestions (Preventative Policing)
 - Crime Case Resolution Prediction
@@ -74,6 +76,13 @@ What makes them so _awesome_? All these ideas should be proven to actually gener
 - Criminal Evolution
 - Domestic Violence
 - Radicalisation prediction
+- [Mass scale surveillance](https://en.wikipedia.org/wiki/PRISM_(surveillance_program)
+
+#### Finance and Tax
+- [Budget planning and simulation](https://www.edx.org/course/macroeconometric-forecasting-imfx-mfx-0)
+- [Customs fraud detection](http://ieeexplore.ieee.org/document/1167400/)
+- [Tax audit triage](https://the-modeling-agency.com/triage-for-tax-auditstm/)
+
 
 ### Retail
 - Distribution centre optimization
