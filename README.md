@@ -104,9 +104,6 @@ What makes them so _awesome_? All these ideas should be proven to actually gener
 - Room occupancy planning
 
 ## Use cases by department
-### Call centre
-- TODO
-
 
 ### Human Resources
 - [Competency forecasting](http://onlinelibrary.wiley.com/doi/10.1111/j.1468-2389.1993.tb00083.x/full)
