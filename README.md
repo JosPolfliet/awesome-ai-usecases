@@ -109,13 +109,12 @@ What makes them so _awesome_? All these ideas should be proven to actually gener
 
 
 ### Human Resources
-- Capability analytics
-- Competency forecasting
-- Employee churn analytics
-- Employee performance analytics
-- Network analytics on employee interactions
-- Resume matching, preselection and tagging
-- Workforce planning
+- [Competency forecasting](http://onlinelibrary.wiley.com/doi/10.1111/j.1468-2389.1993.tb00083.x/full)
+- [Employee churn analytics](http://www.predictiveanalyticsworld.com/patimes/employee-churn-201-calculating-employee-value/3321/)
+- [Employee performance analytics](http://www.halogensoftware.com/blog/employee-performance-data-the-most-underused-data-set-in-hr)
+- [Network analytics on employee interactions](http://lcs.ios.ac.cn/~shil/paper/Smallblue_PIEEE.pdf)
+- [Resume matching, preselection and tagging](https://www.quora.com/What-is-the-best-algorithm-to-match-resumes-with-jobs)
+- [Workforce planning](https://www.slideshare.net/wayneraw/workforce-planning)
 
 ### Finance
 - Cost analytics
