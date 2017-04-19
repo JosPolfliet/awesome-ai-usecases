@@ -43,10 +43,10 @@ What makes them so _awesome_? All these ideas should be proven to actually gener
 - Waste and abuse detection
 
 ### IT
-- Asset quality analytics
+- [Component quality analytics](https://www.backblaze.com/blog/hard-drive-reliability-stats-q1-2016/)
 - [Cybercrime detection](http://www.sas.com/en_be/software/fraud-security-intelligence/cybersecurity-solutions.html)
 - [Server performance monitoring and alerting](http://www.coscale.com/)
-- Text analytics for incident management tickets
+- Incident management tickets [automatic routing and reply](https://www.channele2e.com/2016/12/23/automate-trouble-ticketing-management-with-natural-language-processing/) or [clustering](https://link.springer.com/chapter/10.1007/978-3-319-46295-0_58)
 
 ### Marketing
 
@@ -54,12 +54,11 @@ What makes them so _awesome_? All these ideas should be proven to actually gener
 - [Churn/Customer attrition](https://en.wikipedia.org/wiki/Customer_attrition#prediction)
 - [Customer segmentation](https://ds4ci.files.wordpress.com/2013/09/user08_jimp_custseg_revnov08.pdf)
 - [Life Time Value](https://dataorigami.net/blogs/napkin-folding/18868411-lifetimes-measuring-customer-lifetime-value-in-python)
-- Personalized advertising
+- [Personalized advertising](http://ieeexplore.ieee.org/document/7273289/)
 - [Product recommendation engines](http://www.kdnuggets.com/2015/10/big-data-recommendation-systems-change-lives.html) using recommendation engines
 - [Marketing Optimization](http://www.marketingoptimizer.com/marketing-optimization/)
 - [Social Media Analytics](https://cran.r-project.org/web/packages/SocialMediaLab/)
-- Targetted advertising
-- Text Analytics on customer complaints
+- [Text Analytics on customer complaints](https://dev.socrata.com/blog/2016/05/03/natural-language-with-sodapy-and-algorithmia.html)
 
 ### Sales
 
@@ -70,12 +69,11 @@ What makes them so _awesome_? All these ideas should be proven to actually gener
 
 
 ### Supply chain
-- Constrained route optimization
-- Demand forecasting
-- Gas purchase optimization
-- Inventory forecasting
-- Optimal routes
-- Warehouse location optimization
+- [Demand forecasting](https://www.slideshare.net/vishnuvsvn/demand-forecasting-in-supply-chain)
+- [Gas purchase optimization](http://pubsonline.informs.org/doi/pdf/10.1287/opre.40.3.446)
+- [Inventory forecasting](https://hbr.org/1971/07/how-to-choose-the-right-forecasting-technique)
+- [Optimal routes](http://www.sciencedirect.com/science/article/pii/S22125671163004780)
+- [Warehouse location optimization](https://en.wikipedia.org/wiki/Weber_problem)
 
  
 
