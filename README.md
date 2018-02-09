@@ -7,7 +7,7 @@ What makes them so _awesome_? All these ideas should be proven to actually gener
 
 ## Contents
 [Use cases by department](#use-cases-by-department)
-
+- [Call center](#call-center)
 - [Human Resources](#human-resources)
 - [Finance](#finance)
 - [IT](#it)
@@ -28,6 +28,17 @@ What makes them so _awesome_? All these ideas should be proven to actually gener
   
 
 ## Use cases by department
+### Call center
+- Automation
+- Call volume forecasting
+- Next best action
+- Real time sentiment analysis
+- Real time compliance risk
+- Real time suggestions and optimization
+- Script adherence
+- Script optimization
+- Skill based routing
+- Voice authentication
 
 ### Human Resources
 - [Competency forecasting](http://onlinelibrary.wiley.com/doi/10.1111/j.1468-2389.1993.tb00083.x/full)
