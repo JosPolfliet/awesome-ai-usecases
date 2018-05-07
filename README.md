@@ -86,7 +86,11 @@ What makes them so _awesome_? All these ideas should be proven to actually gener
 - [Optimal routes](http://www.sciencedirect.com/science/article/pii/S22125671163004780)
 - [Warehouse location optimization](https://en.wikipedia.org/wiki/Weber_problem)
 
- 
+### Operations
+- Large building management
+- Optical character recognition (receipt/email/letter/document scanning)
+- Measuring energy consumption from aerial or sattelite infrared camera's
+- Estimating and forecasting occupancy rate of parking lots from security footage
 
 ## Use cases by industry
 ### Banking
@@ -98,11 +102,12 @@ What makes them so _awesome_? All these ideas should be proven to actually gener
 - Automatic account creation using photo ID
 
 ### Healthcare
+- Assisted diagnosis using medical imaging
 - Efficiency of care delivery
+- Fainting, falling or loss of consciousness detection from security camera's
 - Overconsumption
 - Readmissions
 - Reducing outcome variation
-- Medical Imaging (X-ray, PET/CT scans etc.)
 
 ### Insurance
 - Catastrophe modelling
@@ -123,6 +128,7 @@ What makes them so _awesome_? All these ideas should be proven to actually gener
 ### Manufacturing
 - [Predictive Asset Maintenance](http://www.genesissolutions.com/asset-management-to-be-a-key-in-internet-of-things-manufacturing-deployments/)
 - [Quality control](http://necsi.edu/affiliates/braha/IEEE-Cleaning_02.pdf)
+- Drone inspections with automated damage or anomaly detection
 
 ### Public Sector
 
@@ -168,12 +174,6 @@ What makes them so _awesome_? All these ideas should be proven to actually gener
 - Dynamic pricing
 - Room occupancy planning
 
-### General 
-- Optical character recognition (receipt/email/letter/document scanning)
-- Drone images for agriculture (quality of crops, state of maturity)
-- Satellite images for measuring energy consumption (heated roofs of buildings)
-- Occupancy rate of parking lots
-- Large building management (guide for mazes or large rooms)
 
 ## License
 
