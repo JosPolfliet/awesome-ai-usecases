@@ -95,13 +95,14 @@ What makes them so _awesome_? All these ideas should be proven to actually gener
 - Credit scoring
 - Risk management
 - Stress testing
-
+- Automatic account creation using photo ID
 
 ### Healthcare
 - Efficiency of care delivery
 - Overconsumption
 - Readmissions
 - Reducing outcome variation
+- Medical Imaging (X-ray, PET/CT scans etc.)
 
 ### Insurance
 - Catastrophe modelling
@@ -151,6 +152,10 @@ What makes them so _awesome_? All these ideas should be proven to actually gener
 - Plannogram optimization
 - SKU forecasting
 - Waste
+- Stock level checking
+- Product placement in shelves or on websites
+- Image tagging for easy of discovery
+- Visual similarity of items in menues (retarget customers with similar items to those purchased)
 
 ### Telecommunications
 - Asset performance analytics
@@ -163,6 +168,12 @@ What makes them so _awesome_? All these ideas should be proven to actually gener
 - Dynamic pricing
 - Room occupancy planning
 
+### General 
+- Optical character recognition (receipt/email/letter/document scanning)
+- Drone images for agriculture (quality of crops, state of maturity)
+- Satellite images for measuring energy consumption (heated roofs of buildings)
+- Occupancy rate of parking lots
+- Large building management (guide for mazes or large rooms)
 
 ## License
 
