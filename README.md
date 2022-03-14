@@ -32,15 +32,15 @@ What makes them so _awesome_? All these ideas should be proven to actually gener
 ## Use cases by department
 ### Call center
 - Automation
-- Call volume forecasting
-- Next best action
-- Real time sentiment analysis
-- Real time compliance risk
-- Real time suggestions and optimization
-- Script adherence
+- [Call volume forecasting](https://www.contactspace.com/blog/call-centre-forecasting)
+- [Next best action](https://www.btelligent.com/en/blog/next-best-activity-at-the-inbound-call-center/)
+- [Real time sentiment analysis](https://www.calabrio.com/wfo/customer-interaction-analytics/call-center-sentiment-analysis/)
+- [Real time compliance risk](https://callminer.com/blog/real-time-monitoring)
+- [Real time suggestions and optimization](https://www.dialpad.com/blog/call-center-optimization/)
+- [Script adherence](https://www.cxtoday.com/analytics/ensuring-script-adherence-in-a-contact-centre/)
 - Script optimization
-- Skill based routing
-- Voice authentication
+- [Skill based routing](https://www.ringcentral.com/contact-center/skills-based-routing.html#ring-cc)
+- [Voice authentication](https://www.voxco.com/voice-biometrics/)
 
 ### Human Resources
 - [Competency forecasting](http://onlinelibrary.wiley.com/doi/10.1111/j.1468-2389.1993.tb00083.x/full)
