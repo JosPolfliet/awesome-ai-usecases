@@ -182,14 +182,14 @@ What makes them so _awesome_? All these ideas should be proven to actually gener
 - [Flight fare and hotel price forecasting](https://www.altexsoft.com/case-studies/travel/altexsoft-creates-unique-data-science-and-analytics-based-fare-predictor-tool-to-forecast-price-movements/)
 - [Intelligent travel assistants](https://www.30secondstofly.com/ai-software/ultimate-travel-bot-list/)
 - [Optimized disruption management](https://www.altexsoft.com/case-studies/travel/altexsoft-cornerstone-reimagining-the-user-experience-for-a-corporate-travel-management-solution/)
-- [Dynamic pricing in the hospitality industry](https://www.altexsoft.com/blog/datascience/machine-learning-redefines-revenue-management-and-dynamic-pricing-in-hotel-industry/)
 - Targeted offerings to address travel disruptions
 - [Fraud detection](https://www.experian.com/assets/decision-analytics/white-papers/juniper-research-online-payment-fraud-wp-2016.pdf)
-- [In-stay experience](https://www.oracle.com/webfolder/s/delivery_production/docs/FY16h1/doc31/Hotels-2025-v5a.pdf)
+
 
 #### Hotels
-- Dynamic pricing
+- [Dynamic pricing in the hospitality industry](https://www.altexsoft.com/blog/datascience/machine-learning-redefines-revenue-management-and-dynamic-pricing-in-hotel-industry/)
 - Room occupancy planning
+- [In-stay experience](https://www.oracle.com/webfolder/s/delivery_production/docs/FY16h1/doc31/Hotels-2025-v5a.pdf)
 
 
 ## License
