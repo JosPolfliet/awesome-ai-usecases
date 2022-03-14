@@ -151,6 +151,9 @@ What makes them so _awesome_? All these ideas should be proven to actually gener
 - [Budget planning and simulation](https://www.edx.org/course/macroeconometric-forecasting-imfx-mfx-0)
 - [Customs fraud detection](http://ieeexplore.ieee.org/document/1167400/)
 - [Tax audit triage](https://the-modeling-agency.com/triage-for-tax-auditstm/)
+- Fraud and compliance
+- Anti-money laundering
+- Financial regulatory and compliance analytics
 
 
 ### Retail
@@ -171,6 +174,9 @@ What makes them so _awesome_? All these ideas should be proven to actually gener
 - Cell phone tower location optimization
 - Predictive maintenance
 - Routing optimization
+- Optimize network capacity
+- Telecom customer churn
+- New product offerings
 
 ### Travel
 #### Hotels
