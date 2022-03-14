@@ -21,10 +21,12 @@ What makes them so _awesome_? All these ideas should be proven to actually gener
 - [Insurance](#insurance)
 - [Life sciences](#life-sciences)
 - [Manufacturing](#manufacturing)
+- [Oil and Gas](#oilandgas)
 - [Public Safety](#public-safety)
 - [Retail](#retail)
 - [Telecommunications](#telecommunications)
 - [Travel](#travel)
+
   
 
 ## Use cases by department
@@ -102,6 +104,10 @@ What makes them so _awesome_? All these ideas should be proven to actually gener
 - Overconsumption
 - Readmissions
 - Reducing outcome variation
+- Genomic research
+- Patient experience and outcomes
+- Claims fraud
+- Healthcare billing analytics
 
 ### Insurance
 - Catastrophe modelling
@@ -122,6 +128,9 @@ What makes them so _awesome_? All these ideas should be proven to actually gener
 ### Manufacturing
 - [Predictive Asset Maintenance](http://www.genesissolutions.com/asset-management-to-be-a-key-in-internet-of-things-manufacturing-deployments/)
 - [Quality control](http://necsi.edu/affiliates/braha/IEEE-Cleaning_02.pdf)
+- Predictive maintenance
+- Operational efficiency
+- Production optimization
 
 ### Public Sector
 
@@ -151,6 +160,11 @@ What makes them so _awesome_? All these ideas should be proven to actually gener
 - Plannogram optimization
 - SKU forecasting
 - Waste
+- Product development
+- Customer experience
+- Customer lifetime value
+- The in-store shopping experience
+- Pricing analytics and optimization
 
 ### Telecommunications
 - Asset performance analytics
