@@ -157,17 +157,17 @@ What makes them so _awesome_? All these ideas should be proven to actually gener
 
 
 ### Retail
-- Distribution centre optimization
-- Employee fraud detection
-- Market basket analysis
-- Plannogram optimization
-- SKU forecasting
-- Waste
-- Product development
-- Customer experience
-- Customer lifetime value
-- The in-store shopping experience
-- Pricing analytics and optimization
+- [Data Science Use Cases in Retail Industry](https://www.analyticsvidhya.com/blog/2021/05/data-science-use-cases-in-retail-industry/)
+- [Distribution centre optimization](https://www.chainalytics.com/distribution-center-dc-optimization2/)
+- [Employee fraud detection](https://www.niceactimize.com/Lists/Brochures/Fraud_Brochure_Employee.pdf)
+- [Market basket analysis](https://www.analyticsvidhya.com/blog/2021/10/a-comprehensive-guide-on-market-basket-analysis/)
+- [Plannogram optimization](https://explorerresearch.com/learn/planogram-optimization-research/)
+- [SKU forecasting](https://www.impactanalytics.co/demand-forecasting-at-sku-level/)
+- [Product development](https://www.emlv.fr/en/how-can-data-analytics-improve-product-development/)
+- [Customer experience](https://www.mckinsey.com/business-functions/marketing-and-sales/our-insights/prediction-the-future-of-cx)
+- [Customer lifetime value](https://www.analyticsvidhya.com/blog/2020/10/a-definitive-guide-for-predicting-customer-lifetime-value-clv/)
+- [The in-store shopping experience](https://squareup.com/us/en/townsquare/in-person-shopping-experience)
+- [Pricing analytics and optimization](https://tryolabs.com/blog/price-optimization-machine-learning)
 
 ### Telecommunications
 - Asset performance analytics
