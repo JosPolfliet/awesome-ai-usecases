@@ -42,6 +42,7 @@ What makes them so _awesome_? All these ideas should be proven to actually gener
 - [Real time suggestions and optimization](https://www.dialpad.com/blog/call-center-optimization/)
 - [Script adherence](https://www.cxtoday.com/analytics/ensuring-script-adherence-in-a-contact-centre/)
 - Script optimization
+- [Call Center optimization](https://www.analyticsvidhya.com/blog/2016/04/operational-analytics-case-study-freshers-call-center-optimization/)
 - [Skill based routing](https://www.ringcentral.com/contact-center/skills-based-routing.html#ring-cc)
 - [Voice authentication](https://www.voxco.com/voice-biometrics/)
 
