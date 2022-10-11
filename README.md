@@ -74,7 +74,7 @@ What makes them so _awesome_? All these ideas should be proven to actually gener
 - [Customer segmentation](https://ds4ci.files.wordpress.com/2013/09/user08_jimp_custseg_revnov08.pdf)
 - [Life Time Value](https://dataorigami.net/blogs/napkin-folding/18868411-lifetimes-measuring-customer-lifetime-value-in-python)
 - [Personalized advertising](http://ieeexplore.ieee.org/document/7273289/)
-- [Product recommendation engines](http://www.kdnuggets.com/2015/10/big-data-recommendation-systems-change-lives.html) using recommendation engines
+- [Product recommendation engines using recommendation system](http://www.kdnuggets.com/2015/10/big-data-recommendation-systems-change-lives.html)
 - [Marketing Optimization](http://www.marketingoptimizer.com/marketing-optimization/)
 - [Social Media Analytics](https://cran.r-project.org/web/packages/SocialMediaLab/)
 - [Text Analytics on customer complaints](https://dev.socrata.com/blog/2016/05/03/natural-language-with-sodapy-and-algorithmia.html)
