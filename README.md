@@ -3,7 +3,7 @@
 A curated list of amazingly awesome AI ideas and use cases.
 You can use this to get new ideas and share existing ones.
 
-What makes them so _awesome_? All these ideas should be proven to actually generate value, not just 'cool facts' or 'promising techniques'. They should be applicable to business now, with data and techniques that are available today. For example: an [AI that plays video games](http://www.wired.co.uk/article/google-deepmind-atari), or analyzing [heavy metal song lyrics](http://www.degeneratestate.org/posts/2016/Apr/20/heavy-metal-and-natural-language-processing-part-1/) is cool, but it doesn't translate into a meaningful and useful application, so it does not belong here. 
+What makes them so _awesome_? All these ideas should be proven to generate value, not just 'cool facts' or 'promising techniques'. With the data and techniques available today, they should apply to business now. For example, an [AI that plays video games](http://www.wired.co.uk/article/google-deepmind-atari), or analyses [heavy metal song lyrics](http://www.degeneratestate.org/posts/2016/Apr/20/heavy-metal-and-natural-language-processing-part-1/) is cool, but it doesn't translate into a meaningful and useful application, so it does not belong here. 
 
 ## Contents
 
@@ -34,16 +34,16 @@ What makes them so _awesome_? All these ideas should be proven to actually gener
 
 ### Call center
 
-- Automation
+- [Automation](https://blog.hubspot.com/service/artificial-intelligence-call-center)
 - [Call volume forecasting](https://www.contactspace.com/blog/call-centre-forecasting)
 - [Next best action](https://www.btelligent.com/en/blog/next-best-activity-at-the-inbound-call-center/)
-- [Real time sentiment analysis](https://www.calabrio.com/wfo/customer-interaction-analytics/call-center-sentiment-analysis/)
-- [Real time compliance risk](https://callminer.com/blog/real-time-monitoring)
-- [Real time suggestions and optimization](https://www.dialpad.com/blog/call-center-optimization/)
+- [Real-time sentiment analysis](https://www.calabrio.com/wfo/customer-interaction-analytics/call-center-sentiment-analysis/)
+- [Real-time compliance risk](https://callminer.com/blog/real-time-monitoring)
+- [Real-time suggestions and optimization](https://www.dialpad.com/blog/call-center-optimization/)
 - [Script adherence](https://www.cxtoday.com/analytics/ensuring-script-adherence-in-a-contact-centre/)
-- Script optimization
+- [Script optimization](https://dasha.ai/en-us/blog/from-script-to-conversation-enhancing-call-center-skills-with-ai-simulations)
 - [Call Center optimization](https://www.analyticsvidhya.com/blog/2016/04/operational-analytics-case-study-freshers-call-center-optimization/)
-- [Skill based routing](https://www.ringcentral.com/contact-center/skills-based-routing.html#ring-cc)
+- [Skill-based routing](https://www.ringcentral.com/contact-center/skills-based-routing.html#ring-cc)
 - [Voice authentication](https://www.voxco.com/voice-biometrics/)
 
 ### Human Resources
@@ -53,7 +53,7 @@ What makes them so _awesome_? All these ideas should be proven to actually gener
 - [Employee performance analytics](http://www.halogensoftware.com/blog/employee-performance-data-the-most-underused-data-set-in-hr)
 - [Network analytics on employee interactions](http://lcs.ios.ac.cn/~shil/paper/Smallblue_PIEEE.pdf)
 - [Resume matching, preselection and tagging](https://www.quora.com/What-is-the-best-algorithm-to-match-resumes-with-jobs)
-- [Workforce planning](https://www.slideshare.net/wayneraw/workforce-planning)
+- [Workforce Planning](https://www.slideshare.net/wayneraw/workforce-planning)
 
 ### Finance
 
